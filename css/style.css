@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Redressed&display=swap');
+
+body {
+    background-color: rgba(247, 212, 160, 0.329);
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: rgb(1, 56, 206); 
+    font-family: 'Gideon Roman', cursive;
+    font-size: 1cm;
+}
+
+.main{
+    border: 2px solid grey; 
+    width: 65%; 
+    margin: 0 auto;
+}
+
+.main div {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 5px auto;
+}
+
+#red {
+    border-color: red;
+}
+
+#blue {
+    border-color: blue;
+}
+
+#green {
+    border-color: green;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Redressed', cursive;
+    font-size: 25px;
+}
+
+
